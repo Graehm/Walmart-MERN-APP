@@ -105,14 +105,14 @@ Install your server dependencies
 We welcome contributions to make fallmart even better! If you would like to contribute please fork the repository, create a new feature branch and make the improvements! When youre done, please create a pull request with a detailed description of your changes and why you think it will improve the app. 
 
 ## Acknowledgements
-Jun Min Baek,
-Joe Cruz,
-Jose Monagas, 
-Jefrey Zavala,
-Andre Ransom, 
-Graehm Fazio, 
-Max Ohnenyi,
-Sri Rao 
+Jun Min Baek | [GitHub](https://github.com/jib5549) | [LinkedIn](https://www.linkedin.com/in/junbaek0307/)
+Joe Cruz | [GitHub](https://github.com/joecruz17) | [LinkedIn](https://www.linkedin.com/in/josephjcruz/)
+Jose Monagas | [GitHub](https://github.com/Jose-Monagas) | [LinkedIn](https://www.linkedin.com/in/jose-monagas/)
+Jefrey Zavala | [GitHub](https://github.com/jefreyzavala1) | [LinkedIn](https://www.linkedin.com/in/jefreyzavala/)
+Andre Ransom | [GitHub]() | [LinkedIn](https://www.linkedin.com/in/andredransom/)
+Graehm Fazio | [GitHub](https://github.com/Graehm) | [LinkedIn](https://www.linkedin.com/in/graehmpatrellfazio/)
+Max Ognenoi | [GitHub](https://github.com/MaxOgnenoi) | [LinkedIn](https://www.linkedin.com/in/max-ognenoi/)
+Sri Rao | [GitHub](https://github.com/SriD647) | [LinkedIn]()
 
 ## Notes
 Some notable future improvement is the relationship between the seed.js and modals. We found a cheat and hardcoded the products imergy together in the seed. A best practice approach would be to loop over the products. Also, given more time we would have liked to make each index page tile a component that we could than attach a department route too making the tiles clickable and redirect the user to the that respective department. 
